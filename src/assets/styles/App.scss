@@ -1,0 +1,17 @@
+main {
+  padding: 0 3rem;
+}
+
+.container {
+  display: flex;
+
+  &__left-side {
+    width: 50%;
+    margin-right: 10px;
+  }
+
+  &__right-side {
+    width: 50%;
+    margin-left: 10px;
+  }
+}

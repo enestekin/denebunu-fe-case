@@ -1,0 +1,31 @@
+// export const products = [
+//   { id: 1, name: 'Product 1' },
+//   { id: 2, name: 'Product 2' },
+//   { id: 3, name: 'Product 3' },
+//   { id: 4, name: 'Product 4' },
+//   { id: 5, name: 'Product 5' },
+//   { id: 6, name: 'Product 6' },
+//   { id: 7, name: 'Product 7' },
+//   { id: 8, name: 'Product 8' },
+//   { id: 9, name: 'Product 9' },
+//   { id: 10, name: 'Product 10' },
+//   { id: 11, name: 'Product 11' },
+//   { id: 12, name: 'Product 12' },
+//   { id: 13, name: 'Product 13' },
+// ];
+
+export const products = [
+  { id: 1001, name: 'Product 1' },
+  { id: 1002, name: 'Product 2' },
+  { id: 1003, name: 'Product 3' },
+  { id: 1004, name: 'Product 4' },
+  { id: 1005, name: 'Product 5' },
+  { id: 1006, name: 'Product 6' },
+  { id: 1007, name: 'Product 7' },
+  { id: 1008, name: 'Product 8' },
+  { id: 1009, name: 'Product 9' },
+  { id: 1010, name: 'Product 10' },
+  { id: 1011, name: 'Product 11' },
+  { id: 1012, name: 'Product 12' },
+  { id: 1013, name: 'Product 13' },
+];
